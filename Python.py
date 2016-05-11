@@ -2,5 +2,5 @@
 import numpy as num
 :)
 ESTE ES UN NUEVO CAMBIO EN ESTE CODIGO 
-PARA PRACTICA EN LA CAPACITACION DE GIT
 
+Una interesante herramienta hasta practicar un poco dificil pero ahi vamos 
